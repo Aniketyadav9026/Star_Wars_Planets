@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+.planets-list {
+  margin-bottom: 20px;
+}
+
+.planets-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.planets-list li {
+  cursor: pointer;
+  margin-bottom: 5px;
+}
+
+.planet-details {
+  border: 1px solid #ccc;
+  padding: 10px;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.planet-details p {
+  margin: 5px 0;
+}
+
+.planet-details ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.planet-details li {
+  margin-bottom: 5px;
+}
